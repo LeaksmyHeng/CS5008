@@ -1,0 +1,79 @@
+cmake_minimum_required(VERSION 3.20)
+project(cs5008_f21_LeaksmyHeng C)
+
+set(CMAKE_C_STANDARD 11)
+
+include_directories(module02/hw02-data-structures-in-c)
+include_directories(module03/hw03-another-data-structure)
+include_directories(module04/hw04-hashmap)
+include_directories(module09/hw09-bst)
+include_directories(module10/hw10-graphs)
+include_directories(module11/hw11-shortest)
+include_directories(practicum01)
+include_directories(practicum02)
+
+add_executable(cs5008_f21_LeaksmyHeng
+        module01/hw01-guessing-game/main.c
+        module01/lab01-terminal/main.c
+        module02/hw02-data-structures-in-c/myqueue.h
+        module02/hw02-data-structures-in-c/mystack.h
+        module02/hw02-data-structures-in-c/queue_main.c
+        module02/hw02-data-structures-in-c/queue_test.c
+        module02/hw02-data-structures-in-c/stack_main.c
+        module02/hw02-data-structures-in-c/stack_test.c
+        module02/lab02-linked-list/linkedlist.c
+        module03/hw03-another-data-structure/dll_test.c
+        module03/hw03-another-data-structure/main.c
+        module03/hw03-another-data-structure/my_dll.h
+        module03/lab03-assembly/estimator.c
+        module03/lab03-assembly/hw01-guessing-game.c
+        module04/hw04-hashmap/support/array_of_lists.c
+        module04/hw04-hashmap/hashmap_test.c
+        module04/hw04-hashmap/main.c
+        module04/hw04-hashmap/my_hashmap.h
+        module04/lab04-library/hidden/secret.c
+        module04/lab04-library/hack.c
+        module04/lab04-library/lottery.c
+        module05/hw05-mini-shell/support/readline.c
+        module05/hw05-mini-shell/shell.c
+        module05/lab05-processes/example1.c
+        module05/lab05-processes/example2.c
+        module05/lab05-processes/example3.c
+        module05/lab05-processes/example4.c
+        module05/lab05-processes/example5.c
+        module05/lab05-processes/example6.c
+        module05/lab05-processes/myprogram.c
+        module06/hw06-concurrency/painters.c
+        module06/hw06-concurrency/trylock.c
+        module06/lab06-multiprocessing/forkconcurrency.c
+        module06/lab06-multiprocessing/threads.c
+        module07/hw07-analysis/insertion.c
+        module07/lab07-sorting/bubblesort.c
+        module07/lab07-sorting/csort.c
+        module07/lab07-sorting/selection.c
+        module08/hw08/fast-mixedupness.c
+        module08/hw08/slow-mixedupness.c
+        module08/lab08-mergesort/mergesort.c
+        module09/hw09-bst/bst_tests.c
+        module09/hw09-bst/my_bst.c
+        module09/hw09-bst/my_bst.h
+        module09/lab09-recursion/dfs.c
+        module09/lab09-recursion/factorial.c
+        module10/hw10-graphs/main.c
+        module10/hw10-graphs/my_dll.h
+        module10/hw10-graphs/my_graph.h
+        module10/lab10-matrix/adjacencymatrix.c
+        module11/hw11-shortest/main.c
+        module11/hw11-shortest/my_dll.h
+        module11/hw11-shortest/my_graph.h
+        module11/hw11-shortest/my_pq.h
+        module11/hw11-shortest/my_shortest.h
+        module12/lab12-dp/pascal.c
+        module12/lab12-dp/print_pascal.c
+        practicum01/linked_hashmap.h
+        practicum01/linked_hashmap_tests.c
+        practicum02/main.c
+        practicum02/my_dll.h
+        practicum02/my_graph.h
+        practicum02/my_mst.h
+        practicum02/my_pq.h module05/hw05-mini-shell/shell1.c)

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cs5008_f21_LeaksmyHeng"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs5008_f21_LeaksmyHeng">
+				<Option output="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/cs5008_f21_LeaksmyHeng.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs5008_f21_LeaksmyHeng"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs5008_f21_LeaksmyHeng/fast">
+				<Option output="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/cs5008_f21_LeaksmyHeng.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01"/>
+					<Add directory="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs5008_f21_LeaksmyHeng/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module01/hw01-guessing-game/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module01/lab01-terminal/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/myqueue.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/mystack.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/queue_main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/queue_test.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/stack_main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/stack_test.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/lab02-linked-list/linkedlist.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/dll_test.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/my_dll.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/lab03-assembly/estimator.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/lab03-assembly/hw01-guessing-game.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/hashmap_test.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/my_hashmap.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/support/array_of_lists.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/hack.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/hidden/secret.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/lottery.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/hw05-mini-shell/shell.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/hw05-mini-shell/shell1.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/hw05-mini-shell/support/readline.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example1.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example2.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example3.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example4.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example5.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example6.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/myprogram.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/hw06-concurrency/painters.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/hw06-concurrency/trylock.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/lab06-multiprocessing/forkconcurrency.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/lab06-multiprocessing/threads.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/hw07-analysis/insertion.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/bubblesort.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/csort.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/selection.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/hw08/fast-mixedupness.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/hw08/slow-mixedupness.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/lab08-mergesort/mergesort.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/bst_tests.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/lab09-recursion/dfs.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/lab09-recursion/factorial.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_dll.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_graph.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/lab10-matrix/adjacencymatrix.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_dll.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_graph.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_pq.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_shortest.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module12/lab12-dp/pascal.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module12/lab12-dp/print_pascal.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01/linked_hashmap.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01/linked_hashmap_tests.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/main.c">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_dll.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_graph.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_mst.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_pq.h">
+			<Option target="cs5008_f21_LeaksmyHeng"/>
+		</Unit>
+		<Unit filename="C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

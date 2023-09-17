@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cs5008_f21_LeaksmyHeng.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cs5008_f21_LeaksmyHeng.dir/objects.a @CMakeFiles\cs5008_f21_LeaksmyHeng.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\cs5008_f21_LeaksmyHeng.dir/objects.a -Wl,--no-whole-archive -o cs5008_f21_LeaksmyHeng.exe -Wl,--out-implib,libcs5008_f21_LeaksmyHeng.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cs5008_f21_LeaksmyHeng.dir\linklibs.rsp

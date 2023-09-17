@@ -1,0 +1,480 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module01/hw01-guessing-game/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module01/lab01-terminal/main.c
+stdio.h
+-
+math.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/myqueue.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/mystack.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/queue_main.c
+stdio.h
+-
+stdlib.h
+-
+myqueue.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/myqueue.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/queue_test.c
+stdio.h
+-
+stdlib.h
+-
+myqueue.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/myqueue.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/stack_main.c
+stdio.h
+-
+stdlib.h
+-
+mystack.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/mystack.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/stack_test.c
+stdio.h
+-
+stdlib.h
+-
+mystack.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/hw02-data-structures-in-c/mystack.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module02/lab02-linked-list/linkedlist.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/dll_test.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/my_dll.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/my_dll.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/hw03-another-data-structure/my_dll.h
+stdlib.h
+-
+stdio.h
+-
+malloc.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/lab03-assembly/estimator.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module03/lab03-assembly/hw01-guessing-game.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/hashmap_test.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+my_hashmap.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/my_hashmap.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+my_hashmap.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/my_hashmap.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/my_hashmap.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/hw04-hashmap/support/array_of_lists.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/hack.c
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/hidden/secret.c
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module04/lab04-library/lottery.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/hw05-mini-shell/shell.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+signal.h
+-
+sys/wait.h
+-
+sys/types.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/hw05-mini-shell/support/readline.c
+stdio.h
+-
+string.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example1.c
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example2.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example3.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example4.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example5.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/example6.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module05/lab05-processes/myprogram.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/hw06-concurrency/painters.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+pthread.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/hw06-concurrency/trylock.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+sys/types.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/lab06-multiprocessing/forkconcurrency.c
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module06/lab06-multiprocessing/threads.c
+pthread.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/hw07-analysis/insertion.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/bubblesort.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/csort.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module07/lab07-sorting/selection.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/hw08/fast-mixedupness.c
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/hw08/slow-mixedupness.c
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module08/lab08-mergesort/mergesort.c
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/bst_tests.c
+stdio.h
+-
+stdlib.h
+-
+my_bst.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.c
+my_bst.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/hw09-bst/my_bst.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/lab09-recursion/dfs.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module09/lab09-recursion/factorial.c
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/main.c
+stdio.h
+-
+stdlib.h
+-
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_graph.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_dll.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_graph.h
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/hw10-graphs/my_dll.h
+stdlib.h
+-
+assert.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module10/lab10-matrix/adjacencymatrix.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/main.c
+stdio.h
+-
+stdlib.h
+-
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_graph.h
+my_shortest.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_shortest.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_dll.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_graph.h
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_dll.h
+stdlib.h
+-
+assert.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_pq.h
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_graph.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_shortest.h
+stdlib.h
+-
+assert.h
+-
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_graph.h
+my_pq.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module11/hw11-shortest/my_pq.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module12/lab12-dp/pascal.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/module12/lab12-dp/print_pascal.c
+stdio.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01/linked_hashmap.h
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01/linked_hashmap_tests.c
+stdio.h
+-
+stdlib.h
+-
+linked_hashmap.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum01/linked_hashmap.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/main.c
+stdio.h
+-
+stdlib.h
+-
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_dll.h
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_graph.h
+my_mst.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_mst.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_dll.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_graph.h
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_dll.h
+stdlib.h
+-
+assert.h
+-
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_mst.h
+stdlib.h
+-
+assert.h
+-
+my_dll.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_dll.h
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_graph.h
+my_pq.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_pq.h
+
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_pq.h
+my_graph.h
+C:/Users/Leaksmy Heng/CLionProjects/cs5008-f21-LeaksmyHeng/practicum02/my_graph.h
+
